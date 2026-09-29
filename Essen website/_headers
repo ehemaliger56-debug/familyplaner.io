@@ -1,0 +1,8 @@
+# Cloudflare Pages: kein Redirect nötig – index.html ist der Einstieg.
+/supabase.js
+  Cache-Control: public, max-age=3600
+/supabase-test.html
+  Cache-Control: public, max-age=3600
+/Familientafel-Essensplan.html
+  Cache-Control: public, max-age=3600
+  Content-Type: text/html; charset=utf-8
